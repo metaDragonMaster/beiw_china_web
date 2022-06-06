@@ -1,0 +1,11 @@
+  |  模块   | 文件夹 |
+  |  ----  | ----  |
+  |  companyProfile  | 企业简介  |
+  |  help  | 帮助中心  |
+  |  homepage  | 首页  |
+  |  information  | 资讯快报  |
+  |  supermarket  | 超市  |
+  |  transaction  | 交易所  |
+  |  uploadPatent  | 上传专利  |
+  |  userContent  | 用户中心  |
+  |  userSign  | 用户登录/注册  |
